@@ -24,3 +24,5 @@ The app uses the **MVP Architecture**.
 * Presenter - The presenter is responsible to act as the middleman between view and model. It retrieves data from the model and returns it formatted to the view
 
 > Visit here for a detailed explanation on MVP: <https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter>
+
+<img src="https://github.com/DroidGeeks/CryptoApp/blob/master/screenshots/Screenshot_20190315-082624.png" width="280"/>   <img src="https://github.com/DroidGeeks/CryptoApp/blob/master/screenshots/Screenshot_20190315-082650.png" width="280"/>
